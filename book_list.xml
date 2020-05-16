@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="euc-kr"?>
+<!DOCTYPE booklist SYSTEM "book.dtd">
+<booklist> 
+  <book id="b1" kind="computer">
+    <title>JSP And Servlet</title>
+    <author>이규미</author>
+    <publisher>인포북</publisher>
+    <price>25000</price>
+  </book>
+
+  <book id="b2" kind="computer">
+    <title>Inside XML</title>
+    <author>신민철</author>
+    <publisher>디지털북스</publisher>
+    <price>35000</price>
+  </book>
+
+  <book id="b3" kind="language">
+    <title>쉽게 배우는 영어</title>
+    <author>채규태</author>
+    <publisher>시사영어사</publisher>
+    <price>20000</price>
+  </book>
+
+  <book id="b4" kind="computer">
+    <title>XML 전자상거래</title>
+    <author>이종호</author>
+    <publisher>정보문화사</publisher>
+    <price>28000</price>
+  </book>
+
+  <book id="b5" kind="소설">
+    <title>사랑과 전쟁</title>
+    <author>이사랑</author>
+    <publisher>전쟁문화사</publisher>
+    <price>15000</price>
+  </book>
+
+  <book id="b6" kind="수필">
+    <title>사랑을 느끼세요</title>
+    <author>이사랑</author>
+    <publisher>사랑출판사</publisher>
+    <price>15000</price>
+  </book>
+
+  <book id="b7" kind="잡지">
+    <title>월간 중앙</title>
+    <author>중앙일보기자</author>
+    <publisher>중앙일보사</publisher>
+    <price>18000</price>
+  </book>
+  </booklist>
